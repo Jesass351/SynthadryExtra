@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: beab3c7a615b6d6d6ae067dd2d7a38f9
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Salma Pro
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 92eb357aa7faf1c80aa0afbdf9dfb5d9, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
